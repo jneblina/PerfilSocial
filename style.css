@@ -1,0 +1,25 @@
+body{
+    background-color: #071013;
+    text-align: center;
+}
+
+.foto{
+    height: 300;
+    width: 280;
+    border-radius: 10px;
+}
+
+.encabezado{
+    color: #EB5160;
+    text-align: center;
+    font-size: 40px;
+}
+
+.titulo{
+    color: #B7999C;
+}
+
+.texto{
+    color: #AAAAAA;
+    padding: 10px;
+}
