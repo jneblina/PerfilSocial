@@ -3,6 +3,13 @@ body{
     text-align: center;
 }
 
+.info{
+    border-radius: 10px;
+    background-color: darkslategray;
+    margin: 80px;
+    padding: 10px;
+}
+
 .foto{
     height: 300;
     width: 280;
